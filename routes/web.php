@@ -15,6 +15,9 @@ use App\Http\Controllers\AdminPanel;
 |
 */
 
+
+
+
 Route::get('/', [UserPanel::class, 'index']);
 
 Route::get('/Admin', [AdminPanel::class, 'index']);

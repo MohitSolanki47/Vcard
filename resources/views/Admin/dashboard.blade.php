@@ -105,7 +105,7 @@
 
     <div class="row">
 
-        <div class="col-xl-6">
+        <div class="col-xl-8">
             <div class="card">
                 <div class="card-body">
                     <h4 class="card-title mb-4">Earning</h4>
@@ -146,14 +146,99 @@
                 </div>
             </div>
         </div>
-
-        <div class="col-xl-3">
+        
+        <div class="col-lg-4">
             <div class="card">
                 <div class="card-body">
-                    <h4 class="card-title mb-4">Yearly sales</h4>
+                    <h4 class="card-title mb-5">Activity</h4>
 
-                    <div id="radar-chart" class="apex-charts"></div>
+                    <ul class="list-unstyled activity-wid">
+                        <li class="activity-list">
+                            <div class="activity-icon avatar-xs">
+                                <span class="avatar-title bg-soft-primary text-primary rounded-circle">
+                                    <i class="mdi mdi-calendar-edit"></i>
+                                </span>
+                            </div>
+                            <div class="d-flex align-items-start">
+                                <div class="me-3">
+                                    <h5 class="font-size-14">20 Jan <i
+                                            class="mdi mdi-arrow-right text-primary align-middle ms-2"></i>
+                                    </h5>
+                                </div>
+                                <div class="flex-1">
+                                    <div>
+                                        Responded to need “Volunteer Activities"
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
 
+                        <li class="activity-list">
+                            <div class="activity-icon avatar-xs">
+                                <span class="avatar-title bg-soft-primary text-primary rounded-circle">
+                                    <i class="mdi mdi-account-multiple-outline"></i>
+                                </span>
+                            </div>
+                            <div class="d-flex align-items-start">
+                                <div class="me-3">
+                                    <h5 class="font-size-14">23 Jan <i
+                                            class="mdi mdi-arrow-right text-primary align-middle ms-2"></i>
+                                    </h5>
+                                </div>
+                                <div class="flex-1">
+                                    <div>
+                                        Added an interest “Volunteer Activities”
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="activity-list">
+                            <div class="activity-icon avatar-xs">
+                                <span class="avatar-title bg-soft-primary text-primary rounded-circle">
+                                    <i class="mdi mdi-square-edit-outline"></i>
+                                </span>
+                            </div>
+                            <div class="d-flex align-items-start">
+                                <div class="me-3">
+                                    <h5 class="font-size-14">24 Jan <i
+                                            class="mdi mdi-arrow-right text-primary align-middle ms-2"></i>
+                                    </h5>
+                                </div>
+                                <div class="flex-1 d-flex">
+                                    <div>
+                                        Everyone realizes why a new common language.. <a href="#">Read
+                                            more</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="activity-list">
+                            <div class="activity-icon avatar-xs">
+                                <span class="avatar-title bg-soft-primary text-primary rounded-circle">
+                                    <i class="mdi mdi-account-multiple-outline"></i>
+                                </span>
+                            </div>
+                            <div class="d-flex align-items-start">
+                                <div class="me-3">
+                                    <h5 class="font-size-14">26 Jan <i
+                                            class="mdi mdi-arrow-right text-primary align-middle ms-2"></i>
+                                    </h5>
+                                </div>
+                                <div class="flex-1">
+                                    <div>
+                                        Joined the group “Boardsmanship Forum”
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+
+                    <div class="text-center mt-4">
+                        <a href="#" class="btn btn-primary btn-sm">View more <i
+                                class="mdi mdi-arrow-right ms-1"></i></a>
+                    </div>
                 </div>
             </div>
         </div>
