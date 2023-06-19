@@ -312,14 +312,10 @@
                 <div class="card-body">
                     
                 <button type="button" class="btn btn-primary waves-effect waves-light"
-                    data-bs-toggle="modal" data-bs-target=".bs-example-modal-xl">Extra
-                    large
-                    modal
-                </button>
-
-
-
-                
+                data-bs-toggle="modal" data-bs-target=".bs-example-modal-xl">Extra
+                large
+                modal
+            </button>
 
                 </div>
             </div>
