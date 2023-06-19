@@ -9,4 +9,8 @@ class AdminPanel extends Controller
     Public function index() {
         echo view('Admin\dashboard');
     }
+
+    public function mycard() {
+        echo view('Admin\mycard');
+    }
 }
